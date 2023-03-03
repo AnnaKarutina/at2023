@@ -1,5 +1,8 @@
 # Aastategija võistlus 2023 - Veebirakenduse arendaja kutsevõistlus
 
+## Asukoht ja aeg
+Võistlus toimub 07.03.2023 08:30-15:40 ja 08.03 08:30-14:00 klassis A411. 
+
 ## Probleem
 
 Tarkvaraarendajate õpilaste vastuvõtu katsetesüsteem muutus kasutuskõlblikuks. Tuleb säilitada olemasoleva lahenduse funktsionaalsus, parandades/täiendades olemasolev lahendus või kirjutase selle ümber arvestades ettedefineeritud nõuetega.
