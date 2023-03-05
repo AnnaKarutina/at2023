@@ -9,7 +9,21 @@ Tarkvaraarendajate õpilaste vastuvõtu katsetesüsteem muutus kasutuskõlblikuk
 
 ## Eeltöö
 
-Alustamiseks sul läheb vaja tutvuda olemasoleva lahendusega, mille leiad [siin](https://github.com/reneesaks/aastategija-2017-II-v2). Kuna antud lahendus baseerub andmebaasi kasutamisel, sul oleks hea võta kasutusele näidisandmebaasi struktuur koos andmetega, millega sa saad kohe katsetada süsteemi tööd - selle sa leiad [siin](https://raw.githubusercontent.com/AnnaKarutina/at2023/master/db.mysql).
+Alustamiseks sul läheb vaja tutvuda olemasoleva lahendusega, mille leiad [siin](https://github.com/AnnaKarutina/at_eeltoo). Kuna antud lahendus baseerub andmebaasi kasutamisel, sul oleks hea võta kasutusele näidisandmebaasi struktuur koos andmetega, millega sa saad kohe katsetada süsteemi tööd - selle sa leiad [siin](https://raw.githubusercontent.com/AnnaKarutina/at2023/master/db.mysql).
+
+```config.php``` fail ei ole commitimisele lisatav - vaata täpsemalt ```.gitignore``` faili - sisuks oleks vaja panna, kui kasutad minu poolt jagatud andmebaasi dump faili:
+```
+<?php
+
+// Load default values
+require 'system/config.default.php';
+
+// Load local customizations
+$cfg['DATABASE_HOSTNAME'] = 'localhost';
+$cfg['DATABASE_USERNAME'] = 'root';
+$cfg['DATABASE_PASSWORD'] = 'qwerty';
+$cfg['DATABASE_DATABASE'] = 'm7iktkhk_aastategija';
+```
 
 Tutvu nii projektiga kui ka andmebaasiga ja pane projekt käima ning katseta selle tööd. Administreerimise osa jaoks oleks vaja kasutada kasutaja nimi ja parool - ```admin``` ja ```Murakas112```.
 
