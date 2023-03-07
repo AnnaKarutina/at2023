@@ -35,4 +35,4 @@ Kujunduse planeerimisel arvesta kooli CVI-ga - brändi raamatuga saab tutvuda [s
 * Eeltöö raames on võimalik tutvuda nii vana visuaaliga kui ka VOCO visuaalse identiteedi materjalidega - sujuva töö teostamiseks oleks hea luua disaini vaade, millega arvestada lahenduse loomisega.
 
 ## Väärtuspakkumise täitmiseks tabel
-(siin)[https://docs.google.com/document/d/1ZkjphpJMZzW9ZKgpZO-45dE5AvXHproH/edit?usp=share_link&ouid=113634194955509868513&rtpof=true&sd=true]
+[Tee koopia, täida ja jaga Anna Karutina](https://docs.google.com/document/d/1ZkjphpJMZzW9ZKgpZO-45dE5AvXHproH/edit?usp=share_link&ouid=113634194955509868513&rtpof=true&sd=true)
