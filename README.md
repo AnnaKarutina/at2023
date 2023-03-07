@@ -36,3 +36,11 @@ Kujunduse planeerimisel arvesta kooli CVI-ga - brändi raamatuga saab tutvuda [s
 
 ## Väärtuspakkumise täitmiseks tabel
 [Tee koopia, täida ja jaga Anna Karutina](https://docs.google.com/document/d/1ZkjphpJMZzW9ZKgpZO-45dE5AvXHproH/edit?usp=share_link&ouid=113634194955509868513&rtpof=true&sd=true)
+
+## Tööde teostamise kontrolli jaoks
+Pane kirja keskkondade ligipääsud, kus te teete oma arendus ja hoiate userstory-d ja task-id, hindajate jaoks ja saada antud info: 
+* Backlog
+* Code
+* Design
+* Live
+Keskkondade lingid palun saata [anna.karutina@voco.ee](mailto:anna.karutina@voco.ee) meilile
